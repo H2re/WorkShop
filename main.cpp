@@ -1,5 +1,7 @@
 #include <iostream>
 #include <list>
+int main() {
+    std::cout << "Hello World :0" << std::endl;
 
 int main(int argc, char* argv[]) {
     std::list<int> values;
