@@ -6,8 +6,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${command:cmake.launchTargetPath}",
-      "args": ["requests_large.txt", "results.txt"
-      ],
+      "args": [1,2,3,4,5,6,7,8,9,10,11,12],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
       "environment": [
@@ -20,7 +19,7 @@
           "value": "Something something"
         }
       ],
-      "externalConsole": false,
+      "externalConsole": true,
       "MIMode": "lldb"
     },
     {
