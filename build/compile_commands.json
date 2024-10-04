@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/cam/GitHub/WorkShop/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.3 -o CMakeFiles/Testing.dir/main.cpp.o -c /Users/cam/GitHub/WorkShop/main.cpp",
+  "file": "/Users/cam/GitHub/WorkShop/main.cpp",
+  "output": "CMakeFiles/Testing.dir/main.cpp.o"
+}
+]

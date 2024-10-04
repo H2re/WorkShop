@@ -1,0 +1,3 @@
+/Users/cam/GitHub/WorkShop/build/CMakeFiles/Testing.dir
+/Users/cam/GitHub/WorkShop/build/CMakeFiles/edit_cache.dir
+/Users/cam/GitHub/WorkShop/build/CMakeFiles/rebuild_cache.dir
