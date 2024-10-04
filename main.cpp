@@ -6,10 +6,11 @@ int main(int argc, char* argv[]) {
     for (int i = 0; i < argc; i++) {
         values.push_back(std::atoi(argv[i]));
     }
-    std::list<int>::iterator itr = values.begin();
-    while (itr != values.end()) {
+    std::list<int>::iterator itr = --values.end();
+    while (itr != values.begin()) {
         std::cout << *itr << std::endl;
-        itr++;
+        itr--;
     }
+
     return 0;
 }
